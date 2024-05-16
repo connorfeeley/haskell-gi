@@ -63,4 +63,5 @@ packages: base/haskell-gi-base.cabal
           bindings/Clutter/gi-clutter.cabal
           bindings/Rsvg/gi-rsvg.cabal
           bindings/GstApp/gi-gstapp.cabal
+          bindings/GstNet/gi-gstnet.cabal
           bindings/AyatanaAppIndicator3/gi-ayatana-appindicator3.cabal
